@@ -1,8 +1,7 @@
 # WiFi Control for Icom IC-PCR1000 using ESP32
 
-<div align="center">
+>
 
-![Project Banner](https://via.placeholder.com/800x200/0a0a0a/00ffaa?text=IC-PCR1000+WiFi+Control)
 
 **A modern wireless web interface to control the Icom IC-PCR1000 communications receiver**
 
