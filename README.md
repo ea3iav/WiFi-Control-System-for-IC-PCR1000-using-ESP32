@@ -106,3 +106,14 @@ Add the ESP32 board URL in **File → Preferences**:
 
 **Developed by EA3IAV**
 
+**Disclaimer**
+
+This project is provided for experimental and educational purposes only.
+
+All designs, code, and hardware configurations are shared “as is”, without any guarantees or warranties of any kind, either expressed or implied. The author assumes no responsibility for any damage, malfunction, data loss, injury, or other issues that may arise from the use or misuse of this project.
+
+Users are solely responsible for ensuring that their implementation is safe, appropriate, and compliant with relevant standards and regulations. Working with electronics, power sources (such as batteries), and mechanical components carries inherent risks.
+
+By using this project, you agree that you do so at your own risk.
+
+
