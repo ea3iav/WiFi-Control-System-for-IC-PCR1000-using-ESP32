@@ -58,7 +58,7 @@ No PC or original software is required — full control directly from your mobil
 | TX       | Pin 2 (RX)   |
 | RX       | Pin 3 (TX)   |
 | GND      | Pin 5        |
-
+Put a jumper between pin 7-8 on the DB9
 ## 🚀 Installation
 
 ### 1. Arduino IDE Setup
